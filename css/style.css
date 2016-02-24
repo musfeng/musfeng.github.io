@@ -1,0 +1,101 @@
+*{
+
+	margin:20;
+
+	padding:10;
+
+}
+
+
+
+
+body
+{
+	
+	font-family:"Trebuchet MS", "Myriad Pro", Arial, sans-serif;
+	
+	font-size:14px;
+
+	color:#000;
+	/*text-shadow:1px 1px 1px #fff;*/
+	
+	overflow-x:hidden;
+
+}
+
+div#header
+{
+	text-align:center;
+	border:2px solid #a1a1a1;
+	
+	background:#dddddd;
+	
+	border-radius:10px;
+
+}
+
+
+
+div#nav
+{
+	-moz-border-image:url(/i/border.png) 30 30 round;	/* Old Firefox */
+	-webkit-border-image:url(/i/border.png) 30 30 round;	/* Safari and Chrome */
+	-o-border-image:url(/i/border.png) 30 30 round;		/* Opera */
+	border-image:url(/i/border.png) 30 30 round;
+}
+
+
+
+
+
+h1
+{
+
+	font-size:56px;
+	
+	color:#ccc;
+
+}
+
+
+h2
+{
+	
+	font-size:20px;
+	
+	padding:10px 0px 10px 0px;
+
+	margin:15px 0px 20px 0px;
+
+}
+
+
+a
+{
+
+	color:#ccc;
+
+	text-decoration:none;
+
+}
+
+
+a#hover
+{
+
+	color:#222;
+
+}
+
+
+p
+{
+
+	background:#ccc;
+
+
+	padding:5px 0px;
+
+}
+
+
